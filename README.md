@@ -8,6 +8,6 @@ Running
 g++ main.c
 ./a.out square.png -o c.ppm -s square -c white
 
-*-o output file name
-*-s shape (currently only works with rectangles)
-*-c highlight color
+1. -o output file name
+2. -s shape (currently only works with rectangles)
+3. -c highlight color
