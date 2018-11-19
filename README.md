@@ -5,7 +5,7 @@ Install ImageMagick on system before running
 
 Running
 -------
-g++ main.c
+g++ main.c                                                 
 ./a.out square.png -o c.ppm -s square -c white
 
 1. -o output file name
